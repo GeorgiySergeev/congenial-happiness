@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/congenial-happiness
-/",
+    "build": "vite build --base=/congenial-happiness/",
     "preview": "vite preview"
   },
   "devDependencies": {
